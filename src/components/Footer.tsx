@@ -10,7 +10,7 @@ function Footer() {
         <a href="" target="_blank" rel="noreferrer"><GitHubIcon/></a>
         <a href="" target="_blank" rel="noreferrer"><LinkedInIcon/></a>
       </div>
-      <p>A portfolio designed & built by <a href="" target="_blank" rel="noreferrer">Muhammed Abdella</a> </p>
+      <p>Copyright ©2024 <a href="" target="_blank" rel="noreferrer">Muhammed Abdella</a> </p>
     </footer>
   );
 }
